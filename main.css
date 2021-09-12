@@ -1,0 +1,256 @@
+.nav-header {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+.nav-header-left {
+    display: flex;
+    text-decoration: none;
+    margin-top: 22px;
+}
+
+.nav_min {
+    text-decoration: none;
+    list-style: none;
+}
+
+.logo-header {
+    margin-right: 170px;
+    padding-left: 20px;
+}
+
+.search_header {
+    width: 100%;
+    height: 256px;
+    background-image: url(img_res/bg.jpg);
+    background-size: cover;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.all-search {
+    padding-top: 108px;
+}
+
+.enter-search {
+    width: 372px;
+    border-radius: 5px;
+    border: none;
+    padding: 7px;
+    margin-left: 136px;
+}
+
+.btn-search {
+    border-radius: 5px;
+    border: none;
+    padding: 7px;
+    background-color: rgb(235, 99, 144);
+    color: white;
+}
+
+.img-explore {
+    display: flex;
+    justify-content: center;
+}
+
+.text-explore {
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 21px;
+    margin-top: 60px;
+}
+
+.explore-bg1 {
+    background-image: url("./img_res/pizza.jpg");
+    background-size: cover;
+    width: 200px;
+    height: 280px;
+    border-radius: 13px;
+    margin: 12px;
+}
+
+.explore-bg2 {
+    background-image: url("./img_res/burger.jpg");
+    background-size: cover;
+    width: 200px;
+    height: 280px;
+    margin: 12px;
+    border-radius: 13px;
+}
+
+.explore-bg3 {
+    background-size: cover;
+    background-image: url("./img_res/momo.jpg");
+    width: 200px;
+    height: 280px;
+    margin: 12px;
+    border-radius: 13px;
+}
+
+.text-food {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 208px;
+    font-size: large;
+}
+
+.food-menu {
+    background-color: rgba(160, 136, 136, 0.534);
+    padding: 20px;
+}
+
+.menu-text {
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    font-weight: 600;
+    padding: 20px;
+}
+
+.menu-main {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.menu-all-food {
+    display: flex;
+    justify-content: center;
+}
+
+.menu-detail {
+    background-color: white;
+    border-radius: 6px;
+    padding: 12px;
+    margin: 10px;
+}
+
+.menu-img {
+    border-radius: 9px;
+}
+
+.menu-mane-food {
+    font-weight: 600;
+}
+
+.menu-about {
+    font-weight: 200;
+}
+
+.menu-btn {
+    color: white;
+    border: 0;
+    background-color: rgb(224, 115, 115);
+    border-radius: 2px;
+    margin: 4px;
+}
+
+.menu-min {
+    display: flex;
+}
+
+.menu-all-food-a {
+    text-decoration: none;
+    color: brown;
+}
+
+.home-icon {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.home-icon-i {
+    padding: 3px;
+    zoom: 1.3;
+}
+
+.home-end {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    font-size: small;
+}
+
+.order-body {
+    background-image: url("./img_res/bg-order.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    padding-bottom: 50px;
+}
+
+.text-order {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-top: 45px;
+    font-weight: 700;
+    font-size: larger;
+    margin-bottom: 20px;
+}
+
+.select-order {
+    display: flex;
+    justify-content: center;
+    border: 1px solid rgb(252, 250, 250);
+    padding: 18px;
+    margin-left: 459px;
+    margin-right: 459px;
+    border-radius: 12px;
+}
+
+.select-left-img {
+    width: 78px;
+    height: 86px;
+    margin-left: -1px;
+    border-radius: 11px;
+    margin-right: 13px;
+}
+
+.menu-about-order {
+    font-weight: 500;
+}
+
+.sum-order {
+    border: none;
+    border-radius: 5px;
+    margin-top: 6px;
+}
+
+.delivery-order {
+    display: flex;
+    justify-content: center;
+    border: 1px solid rgb(252, 250, 250);
+    margin-left: 459px;
+    margin-right: 459px;
+    border-radius: 12px;
+    margin-top: 27px;
+    padding-top: 15px;
+}
+
+.delivery-p {
+    margin-bottom: 0;
+    font-weight: 600;
+    margin-top: 12px;
+}
+
+.delivery-text {
+    width: 256px;
+    border-radius: 5px;
+    border: none;
+}
+
+.delivery-sub {
+    margin-top: 19px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(226, 152, 152);
+    color: white;
+}
