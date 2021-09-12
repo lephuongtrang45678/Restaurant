@@ -24,7 +24,7 @@
 .search_header {
     width: 100%;
     height: 256px;
-    background-image: url(img_res/bg.jpg);
+    background-image: url(img-res/bg.jpg);
     background-size: cover;
     margin-top: 40px;
     display: flex;
@@ -65,7 +65,7 @@
 }
 
 .explore-bg1 {
-    background-image: url("./img_res/pizza.jpg");
+    background-image: url("./img-res/pizza.jpg");
     background-size: cover;
     width: 200px;
     height: 280px;
@@ -74,7 +74,7 @@
 }
 
 .explore-bg2 {
-    background-image: url("./img_res/burger.jpg");
+    background-image: url("./img-res/burger.jpg");
     background-size: cover;
     width: 200px;
     height: 280px;
@@ -84,7 +84,7 @@
 
 .explore-bg3 {
     background-size: cover;
-    background-image: url("./img_res/momo.jpg");
+    background-image: url("./img-res/momo.jpg");
     width: 200px;
     height: 280px;
     margin: 12px;
@@ -178,7 +178,7 @@
 }
 
 .order-body {
-    background-image: url("./img_res/bg-order.jpg");
+    background-image: url("./img-res/bg-order.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 20px;
